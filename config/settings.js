@@ -6,7 +6,7 @@ global.author = 'NainDev' // nama author
 global.packname = 'Kyzu-BOT' // nama pack sticker
 global.namabot = 'Kyzu-BOT' // nama bot mu
 global.group = 'https://chat.whatsapp.com/CvuudxG8F1fGkSHMs5hJKl' // grup mu
-global.pic = 'https://telegra.ph/file/b9aafbf4f9269f15ecd9b.jpg' // logo lu
+global.pic = 'https://telegra.ph/file/868f0a6a04c336680e88e.jpg' // logo lu
 
 
 let file = require.resolve(__filename)
